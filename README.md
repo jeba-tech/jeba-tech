@@ -16,9 +16,6 @@ Painting, graphic design and UI/UX design give me healing power in my leisure ti
 Thank You for your valuable time.<br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeba-tech&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeba-tech&show_icons=true&theme=radical)  
 <br>
 
 <h2>📫 How to reach me:</h2><br> 
