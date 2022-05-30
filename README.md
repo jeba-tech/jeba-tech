@@ -1,4 +1,4 @@
-##                                                     My name is JEBA FAWJIA.
+## Hello there,                                                    My name is JEBA FAWJIA.
 ### Studying BSc in Computer Science and Engineering at American International University Bangladesh
 
 <h2>🟤About Me :</h2><br>
