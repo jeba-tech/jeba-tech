@@ -1,5 +1,5 @@
-# Hi there 👋, My name is JEBA FAWJIA.
-## ---Studying BSc in Computer Science and Engineering at American International University Bangladesh
+#                                                      My name is JEBA FAWJIA.
+###Studying BSc in Computer Science and Engineering at American International University Bangladesh
 
 <h2>🟤About Me :</h2><br>
 Currently, I'm studying at American International University -Bangladesh in Computer Science and Engineering. I am very passionate about programming and software development.
