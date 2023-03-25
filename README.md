@@ -1,5 +1,5 @@
 ## Hello there,                                                    My name is JEBA FAWJIA.
-### Studying BSc in Computer Science and Engineering at American International University Bangladesh
+### B.Sc in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB)
 
 <h2>👩‍💼 About Me :</h2><br>
 I studied at American International University -Bangladesh in Computer Science and Engineering and done my major in Software Engineering. I am very passionate about programming and software development.
