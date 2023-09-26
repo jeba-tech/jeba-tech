@@ -19,6 +19,9 @@ Thank You for your valuable time.<br><br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=jeba&label=Profile%20Views&color=2&icon=5&pretty=true" />
 </a>
+
+[![](https://visitcount.itsvg.in/api?id=jeba&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 <br>
 
 <h2>📫 How to reach me:</h2><br> 
