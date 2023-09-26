@@ -1,6 +1,5 @@
-## <h2 align="center">Hello there,</h2>
-<h2 align="center">My name is Jeba Fawjia.</h2>
-### B.Sc in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB)
+<h2 align="center">Hello, I'm Jeba Fawjia.</h2>
+<p> B.Sc in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB) </p> 
 
 <h2>👩‍💼 About Me :</h2><br>
 I studied at American International University -Bangladesh in Computer Science and Engineering and done my major in Software Engineering. I am very passionate about programming and software development.
