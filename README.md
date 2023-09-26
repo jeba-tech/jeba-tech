@@ -1,5 +1,7 @@
-<h2 align="center">Hello, I'm <span style="color:#FF5733;">Jeba Fawjia.</span></h2>
-<h2 align="center"><span style="color:#FF5733;">Software Engineer</span></h2>
+<h2 align="center">Hello, I'm <span style="color:#FF5733;">Jeba Fawjia.</span></h2> <br>
+
+<h2 align="center"><span style="color:#FF5733;">Software Engineer</span></h2> <br>
+
 <p> B.Sc in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB) </p> 
 
 <h2>👩‍💼 About Me :</h2><br>
@@ -20,7 +22,6 @@ Thank You for your valuable time.<br><br>
   <img src="https://visitcount.itsvg.in/api?id=jeba&label=Profile%20Views&color=2&icon=5&pretty=true" />
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=jeba&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br>
 
