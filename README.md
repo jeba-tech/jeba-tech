@@ -1,4 +1,5 @@
-## Hello there,                                                    My name is JEBA FAWJIA.
+## <h2 align="center">Hello there,</h2>
+<h2 align="center">My name is Jeba Fawjia.</h2>
 ### B.Sc in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB)
 
 <h2>👩‍💼 About Me :</h2><br>
@@ -15,7 +16,9 @@ Painting, graphic design and UI/UX design give me healing power in my leisure ti
 
 Thank You for your valuable time.<br><br>
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=jeba&label=Profile%20Views&color=2&icon=5&pretty=true" />
+</a>
 <br>
 
 <h2>📫 How to reach me:</h2><br> 
