@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm <span style="color:#FF5733;">Jeba Fawjia.</span></h2> <br>
+<h2 align="center">Hello, I'm <span style="color:#FF5733;">Jeba Fawjia.</span></h2> 
 
 <h2 align="center"><span style="color:#FF5733;">Software Engineer</span></h2> <br>
 
