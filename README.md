@@ -1,5 +1,5 @@
 <h2 align="center">Hello, I'm <span style="color:#FF5733;">Jeba Fawjia.</span></h2>
-<h2 align="center">><font color="red">Software Engineer</font></h2>
+<h2 align="center">><span style="color:#FF5733;">Software Engineer</span></h2>
 <p> B.Sc in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB) </p> 
 
 <h2>👩‍💼 About Me :</h2><br>
