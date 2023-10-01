@@ -14,11 +14,6 @@ Painting, graphic design and UI/UX design give me healing power in my leisure ti
 
 - 🔭 I’m currently working on Web Development and User Interface Design. 
 
-[![](https://visitcount.itsvg.in/api?id=jeba-tech&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=jeba-tech&label=Profile%20Views&color=2&icon=5&pretty=true" />
-</a>
 
 Thank You for your valuable time.<br><br>
 
@@ -29,7 +24,6 @@ Thank You for your valuable time.<br><br>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeba-tech)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <h2>📫 How to reach me:</h2><br> 
