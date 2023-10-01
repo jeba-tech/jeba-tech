@@ -20,8 +20,6 @@ Thank You for your valuable time.<br><br>
 
 
 
-[//]: <>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeba-tech&layout=compact) 
-
 
 
 <br>
