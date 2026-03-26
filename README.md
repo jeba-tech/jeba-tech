@@ -6,7 +6,7 @@
 <p> B.Sc in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB) </p> 
 
 <h2> About Me :</h2><br>
-Currently working as a Software Engineer by profession. Studied B.Sc. in Computer Science and Engineering and majored in Software Engineering at American International University -Bangladesh. Unbridled passion for programming and software development. Interested in Artificial Intelligence (AI) and Software Development.
+Currently working as a Software Engineer by profession. Studied M.Sc in Computer Science and Engineering at Jahangirnagar University (JU) and B.Sc. in Computer Science and Engineering (Major in Software Engineering) at American International University-Bangladesh. Unbridled passion for programming and software development. Interested in Artificial Intelligence (AI) and Software Development.
 Painting and gardening give me healing power in my leisure time.<br><br>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jeba-tech)
