@@ -2,11 +2,11 @@
 
 <h2 align="center"><span style="color:#FF5733;">Software Engineer</span></h2> <br>
 
-<p> M.Sc in Computer Science and Engineering at Jahangirnagar University (JU) </p> 
-<p> B.Sc in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB) </p> 
+<p> Master of Science in Computer Science at Jahangirnagar University (JU) </p> 
+<p> Bachelor of Science in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB) </p> 
 
 <h2> About Me :</h2><br>
-Currently working as a Software Engineer by profession. Studied M.Sc in Computer Science and Engineering at Jahangirnagar University (JU) and B.Sc. in Computer Science and Engineering (Major in Software Engineering) at American International University-Bangladesh. Unbridled passion for programming and software development. Interested in Artificial Intelligence (AI) and Software Development.
+Currently working as a Software Engineer at American International University–Bangladesh (AIUB). Earned a Bachelor of Science in Computer Science and Engineering, majoring in Software Engineering, from American International University–Bangladesh (AIUB), and completed a Master of Science in Computer Science at Jahangirnagar University (JU). Passionate about programming, software development, and artificial intelligence, with research interests in LLMs, NLP, RL, LLM Reasoning, Trustworthy AI
 Painting and gardening give me healing power in my leisure time.<br><br>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jeba-tech)
