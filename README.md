@@ -6,7 +6,7 @@
 <p> Bachelor of Science in Computer Science and Engineering (Major-Software Engineering) at American International University Bangladesh (AIUB) </p> 
 
 <h2> About Me :</h2><br>
-Currently working as a Software Engineer at American International University–Bangladesh (AIUB). Earned a Bachelor of Science in Computer Science and Engineering, majoring in Software Engineering, from American International University–Bangladesh (AIUB), and completed a Master of Science in Computer Science at Jahangirnagar University (JU). Passionate about programming, software development, and artificial intelligence, with research interests in LLMs, NLP, RL, LLM Reasoning, Trustworthy AI
+Currently working as a Software Engineer at American International University–Bangladesh (AIUB). Earned a Bachelor of Science in Computer Science and Engineering, majoring in Software Engineering, from American International University–Bangladesh (AIUB), and completed a Master of Science in Computer Science at Jahangirnagar University (JU). Passionate about programming, software development, and artificial intelligence, with research interests in LLMs, NLP, RL, LLM Reasoning, Trustworthy AI.
 Painting and gardening give me healing power in my leisure time.<br><br>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jeba-tech)
